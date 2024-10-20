@@ -9,3 +9,6 @@ Backend: Node.js, Express, Prisma
 Databases: PostgreSQL, MongoDB
 Others: TypeScript, JavaScript, SQL, Mongoose
 💡 Always learning and exploring new technologies to stay at the forefront of development. Check out my repos and let’s collaborate on something awesome!
+
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=b33t40867kl7w5oretgr1367r&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
