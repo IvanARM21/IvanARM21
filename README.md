@@ -11,4 +11,4 @@ Others: TypeScript, JavaScript, SQL, Mongoose
 💡 Always learning and exploring new technologies to stay at the forefront of development. Check out my repos and let’s collaborate on something awesome!
 
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=b33t40867kl7w5oretgr1367r&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=b33t40867kl7w5oretgr1367r&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=4f46e5&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
